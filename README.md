@@ -1,3 +1,3 @@
 # Pokemon
 
-<img src="./client/misc01.jpg"/>
+<img src="./client/misc1.png"/>
