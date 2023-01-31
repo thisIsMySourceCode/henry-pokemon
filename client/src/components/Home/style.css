@@ -1,0 +1,76 @@
+.logo{
+  height:20vh
+}
+
+
+.navOrder {
+position:absolute;
+top:0;
+right:0;
+}
+
+.orderButton {
+border:1px solid #777;
+border-radius: 15px;
+margin-right:.5rem
+}
+
+#create{
+  border:1px solid #777;
+  border-radius: 15px;
+  margin-right:.5rem;
+  position:absolute;
+  top:0rem;
+  right:27.5rem;
+  width:52px;
+  height:52px;
+}
+
+#create:hover,.orderButton:hover
+{
+  background:#fff;
+  filter:invert(100%)
+}
+
+#pokeselector{
+  position:absolute;
+  top:0rem;
+  right:19.6rem;
+  height: 54px;
+  width: 8rem;
+  border-radius:15px;
+  font-weight: bold;
+  font-family: 'Arial Black',arial,helvetica, sans-serif;
+  text-align: center;
+  font-size: 12pt;
+  border:1px solid #777
+}
+
+
+#buscador{
+position:absolute;
+top:0rem;
+left:1em;
+}
+
+#buscador input{
+  height:52px;
+  border-radius:15px;
+  text-align: center;
+  width:20rem
+}
+
+#buscador button {
+  height:56px;
+  width: 62px;
+  border:2px solid #777;
+  border-radius:15px;
+  text-align: center;
+  margin-left: 0.5rem;
+  font-weight: bold;
+  color:#000;
+  font-family: 'Arial Black',arial,helvetica, sans-serif;
+
+
+}
+

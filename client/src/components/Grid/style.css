@@ -1,0 +1,15 @@
+.grid {
+position:absolute;
+top:1vh;
+
+width:100vw;
+scale:.7;
+
+
+
+display:flex;
+flex-wrap:wrap;
+flex-direction: row;
+justify-content: center;
+
+}
